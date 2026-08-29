@@ -4,11 +4,11 @@
 
 ## 다운로드
 
-👉 **[최신 버전 다운로드](https://github.com/new-moon87/basic-learning-answer-entry-releases/releases/latest)** 페이지에서 `기초학력답안입력.exe` 를 받으세요. (약 400MB)
+👉 **[최신 버전 다운로드](https://github.com/new-moon87/basic-learning-answer-entry-releases/releases/latest)** 페이지에서 `basic-learning-answer-entry.exe` 를 받으세요. (약 400MB)
 
 ## 사용 방법
 
-1. `기초학력답안입력.exe` 실행 — **첫 실행은 30초~1분쯤 걸립니다** (로딩 화면이 뜹니다)
+1. 내려받은 `basic-learning-answer-entry.exe` 실행 — **첫 실행은 30초~1분쯤 걸립니다** (로딩 화면이 뜹니다)
 2. 나이스에서 내려받은 답안일괄등록서식(.xlsx)과 스캔한 답안지 PDF 선택
 3. [분석 시작] → 자동 인식 → 검수 → [엑셀 저장]
 
